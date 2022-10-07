@@ -41,6 +41,8 @@ body {
     margin: auto;
     width: 100%;
     max-width: 985px;
+    padding: 33px;
+    overflow-y: auto;
 }
 
 #messageInp {
